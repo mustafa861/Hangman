@@ -1,0 +1,1 @@
+words=["monitor" , "cpu", "keyboard" , "mouse"]
